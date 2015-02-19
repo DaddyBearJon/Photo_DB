@@ -1,0 +1,8 @@
+
+Application name	Key details
+PhotoViewApp	
+Key: AgUXc3WmoG1YPOzroVEK3vBWTkt3xL4x-tPpVJyNVsVT0Q5ZorBjghA01tWrvLPn
+Application Url: 
+Key type: Basic / Dev/Test
+Created date: 02/14/2015
+Expiration date: None

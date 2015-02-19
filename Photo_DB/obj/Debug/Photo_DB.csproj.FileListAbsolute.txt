@@ -1,0 +1,74 @@
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe.config
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\bin\Debug\Photo_DB.pdb
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csprojResolveAssemblyReference.cache
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB_MarkupCompile.cache
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB.g.resources
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB.Properties.Resources.resources
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csproj.GenerateResource.Cache
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB.exe
+c:\users\dyson.jon\documents\visual studio 2013\Projects\Photo_DB\Photo_DB\obj\Debug\Photo_DB.pdb
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe.config
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.exe
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.pdb
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csprojResolveAssemblyReference.cache
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB_MarkupCompile.cache
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.g.resources
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.Properties.Resources.resources
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csproj.GenerateResource.Cache
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe
+C:\Users\jon_000\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Photo_DB.pdb
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe.config
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.exe
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.pdb
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Photo_DB.pdb
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csprojResolveAssemblyReference.cache
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB_MarkupCompile.cache
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.g.resources
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.Properties.Resources.resources
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csproj.GenerateResource.Cache
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.dll
+C:\Users\dyson.jon\Google Drive\Home\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.pdb
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe.config
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB.exe
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB.pdb
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Photo_DB.exe
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Photo_DB.pdb
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.dll
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.pdb
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csprojResolveAssemblyReference.cache
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB_MarkupCompile.cache
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB.g.resources
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB.Properties.Resources.resources
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\Photo_DB.csproj.GenerateResource.Cache
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe.config

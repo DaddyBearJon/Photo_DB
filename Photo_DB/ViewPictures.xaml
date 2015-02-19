@@ -1,0 +1,263 @@
+﻿<Window x:Class="PhotoApp.ViewPictures"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="View Pictures" 
+        Height="700" 
+        Width="1300"
+        MinWidth="950"
+        MinHeight="550" Loaded="Window_Loaded">
+
+    <Grid Margin="2,2,2,2">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="258" MinWidth="258"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*" MinHeight="311"/>
+            <RowDefinition Height="150" MinHeight="150"/>
+            <RowDefinition Height="32" MinHeight="32"/>
+        </Grid.RowDefinitions>
+
+        <GridSplitter   Grid.Column="0"
+                        Grid.RowSpan="2"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Stretch" 
+                        ShowsPreview="True"
+                        Width="2" 
+                        Margin="-1,2,-1,2">
+            <GridSplitter.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Orange" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </GridSplitter.Background>
+        </GridSplitter>
+
+
+        <Border x:Name="Tree"
+                    Margin="2,2,2,2"
+					Grid.ColumnSpan="3" 
+					Grid.Row="2"
+					BorderThickness="2"
+					VerticalAlignment="Top"
+					HorizontalAlignment="Stretch"
+                    MinHeight="146"
+					Height="Auto" 
+					Width="Auto" 
+                BorderBrush="Black">
+
+            <ListView x:Name="Photos"
+						HorizontalAlignment="Stretch"  
+						VerticalAlignment="Stretch" 
+                      Margin="2,2,2,2"
+						Background="{x:Null}" 
+						BorderBrush="{x:Null}" 
+                      MouseLeftButtonUp="Photos_MouseLeftButtonUp">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"></StackPanel>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding}" Height="120" Width="120" Margin="2"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Border>
+
+        <Button x:Name="btnBrowse" 
+			Grid.Column="0" 
+			Grid.Row="3"
+        	Content="Browse" 
+        	HorizontalAlignment="Center" 
+        	Height="26"
+            MinHeight="26"
+        	VerticalAlignment="Top" 
+        	Width="126"
+            Margin="114,5,790,0" Click="btnBrowse_Click" RenderTransformOrigin="1.597,0.245"/>
+
+
+        <GridSplitter   Grid.Column="2"
+                        Grid.RowSpan="2"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Stretch" 
+                        ShowsPreview="True"
+                        Width="2" 
+                        Margin="-1,2,-1,2">
+            <GridSplitter.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Orange" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </GridSplitter.Background>
+        </GridSplitter>
+
+        <Border x:Name="LOCATION"
+                    Margin="2,2,2,2"
+					Grid.Column="1" 
+					Grid.Row="1"
+					BorderThickness="2"
+                VerticalAlignment="Top"
+					HorizontalAlignment="Right"
+                    MinHeight="320"
+					MinWidth="250" 
+                    Width="250" >
+            <Border.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="Orange" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Grid>
+                <m:Map x:Name="LocationMap"
+                    CredentialsProvider="AgUXc3WmoG1YPOzroVEK3vBWTkt3xL4x-tPpVJyNVsVT0Q5ZorBjghA01tWrvLPn" 
+                    Center="54.294678,-1.580533"
+                    ZoomLevel="14" 
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Right"
+                   Height="248"
+                   Width="248"
+                   Margin="2,2,2,2"/>
+
+                <TextBox x:Name="Longitude" 
+            HorizontalAlignment="Left" 
+            Height="23" 
+            Margin="66,252,0,0" 
+            TextWrapping="Wrap" 
+            Text="-1.580533" 
+            VerticalAlignment="Top" 
+            Width="62" IsEnabled="False"/>
+
+                <Label Content="Longitude:" 
+               HorizontalAlignment="Left" 
+               Height="30" 
+               Margin="-2,248,0,-2"  
+               VerticalAlignment="Top" 
+               Width="66"/>
+
+                <TextBox x:Name="Latitude"
+        	HorizontalAlignment="Left" 
+        	Height="23" 
+        	Margin="181,252,0,0" 
+        	TextWrapping="Wrap" 
+        	Text="54.294678" 
+        	VerticalAlignment="Top" 
+        	Width="62" IsEnabled="False"/>
+
+                <Label Content="Latitude:" 
+        	HorizontalAlignment="Left" 
+        	Height="30" 
+        	Margin="128,248,0,-2"  
+        	VerticalAlignment="Top" 
+        	Width="55"/>
+
+                <Button x:Name="btnMode" 
+        	            Content="Change View" 
+        	            HorizontalAlignment="Right" 
+        	            Height="26"
+        	            MinHeight="26"
+        	            VerticalAlignment="Top" 
+        	            Width="127"
+        	            Margin="0,285,66,0" 
+                        Click="btnMode_Click" 
+                        RenderTransformOrigin="0.552,-0.841"/>
+
+                <Border x:Name="EXIF_DATA"
+                        Margin="6,325,10,5"
+					    BorderThickness="2"
+					    VerticalAlignment="Top"
+					    HorizontalAlignment="Stretch"
+					    MinWidth="232"
+                        MinHeight="110"
+                        Height="110" >
+                    <Border.BorderBrush>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="0"/>
+                            <GradientStop Color="Orange" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.BorderBrush>
+
+                    <ListView x:Name="lvExifData"
+						HorizontalAlignment="Stretch" 
+						VerticalAlignment="Stretch" 
+						Background="{x:Null}" 
+						BorderBrush="{x:Null}" Margin="0,0,0,486">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="80" Header="Field Name" DisplayMemberBinding="{Binding FieldName}"/>
+                                <GridViewColumn Width="150" Header="Description" DisplayMemberBinding="{Binding Description}"/>
+                                <GridViewColumn Width="130" Header="Value" DisplayMemberBinding="{Binding Value}"/>
+                            </GridView>
+                        </ListView.View>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="IsSelected" Value="{Binding FieldName}"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                    </ListView>
+                </Border>
+            </Grid>
+        </Border>
+
+        <Border x:Name="Photo"
+                    Margin="2,2,2,2" 
+					Grid.Row="1"
+					BorderThickness="2"
+					VerticalAlignment="Stretch"
+					HorizontalAlignment="Stretch"
+                    MinHeight="280"
+					MinWidth="350" 
+                    Height="Auto" 
+                    Width="Auto" >
+            <Border.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="Orange" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Image 	x:Name="imagebox"             
+				    HorizontalAlignment="Stretch" 
+					VerticalAlignment="Top" 
+					Stretch="Uniform" 
+					Margin="1,1,1,1" 
+					MinWidth="348"
+                    MinHeight="278"
+                    RenderTransformOrigin="0.5,0.5" >
+                    <Image.LayoutTransform>
+                        <RotateTransform x:Name="Rotate_Image" Angle="0" />
+                    </Image.LayoutTransform>
+            </Image>
+        </Border>
+
+
+
+
+        <Button x:Name="btnRotate" 
+        	    Grid.Column="0" 
+        	    Grid.Row="3"
+        	    Content="Rotate" 
+        	    HorizontalAlignment="Left" 
+        	    Height="26"
+        	    MinHeight="26"
+        	    VerticalAlignment="Top" 
+        	    Width="127"
+        	    Margin="263,5,0,0" 
+                Click="btnRotate_Click"
+                BorderBrush="Orange"
+                Opacity="0.25" BorderThickness="2" RenderTransformOrigin="-0.002,9.491"/>
+    </Grid>
+</Window>    
+

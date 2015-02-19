@@ -1,0 +1,84 @@
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe.config
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.pdb
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.dll
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.pdb
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp_MarkupCompile.cache
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.g.resources
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.Properties.Resources.resources
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csproj.GenerateResource.Cache
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.exe
+C:\Users\dyson.jon\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.pdb
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe.config
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.exe
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.pdb
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp_MarkupCompile.cache
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.g.resources
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.Properties.Resources.resources
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csproj.GenerateResource.Cache
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.pdb
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.dll
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.pdb
+C:\Users\jon_000\Google Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe.config
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.exe
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.pdb
+D:\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe
+D:\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.pdb
+D:\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.dll
+D:\Home\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.pdb
+D:\Home\Coding\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp_MarkupCompile.cache
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.g.resources
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.Properties.Resources.resources
+D:\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csproj.GenerateResource.Cache
+C:\Drive\Home\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe.config
+C:\Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.exe
+C:\Drive\Home\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.pdb
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe.config
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.exe
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.pdb
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.exe
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\PhotoApp.pdb
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.dll
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\ExifMetadata.pdb
+C:\Google Drive\Coding\Photo_DB\Photo_DB\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.baml
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.baml
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.baml
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\AddFolder.g.cs
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\AddPictures.g.cs
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\ViewPictures.g.cs
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\App.g.cs
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp_MarkupCompile.cache
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.g.resources
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.Properties.Resources.resources
+C:\Google Drive\Coding\Photo_DB\Photo_DB\obj\Debug\PhotoApp.csproj.GenerateResource.Cache
