@@ -72,7 +72,7 @@ namespace PhotoApp
                 result = decimal.Round((Deg + (Min / 60) + (Sec / 3600)), 6);
                 return result;
             }
-            catch (Exception e)
+            catch (Exception err)
             {
                 System.Windows.MessageBox.Show("Error", "Error", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return 0;
