@@ -40,7 +40,7 @@ namespace PhotoApp
             }
             else
             {
-                return false;
+                return true;
             }
         }
 
@@ -75,6 +75,7 @@ namespace PhotoApp
                 case "April":
                 case "June":
                 case "September":
+                case "November":
                     createManyFolders(30, fullPathString);
                     break;
                 case "February":
@@ -276,6 +277,10 @@ namespace PhotoApp
                         System.Windows.MessageBox.Show("Folder Already Exists");
                     }
 
+                    
+                        System.Windows.MessageBox.Show("Done!");
+                    
+                
                 }
 
                 catch (Exception err)

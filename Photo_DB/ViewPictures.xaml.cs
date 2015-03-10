@@ -79,6 +79,33 @@ namespace PhotoApp
             }
         }
 
+        private void getDateTaken(string dateTaken)
+        {
+            string year;
+            string month;
+            string day;
+            decimal y;
+            decimal m;
+            decimal d;
+
+            try
+            {
+                string[] splitString = dateTaken.Split(':');
+
+                year = splitString[0].Trim();
+                month = splitString[1].Trim();
+                day = splitString[2].Trim();
+
+                y = Convert.ToDecimal(year);
+                m = Convert.ToDecimal(month);
+                d = Convert.ToDecimal(day);
+            }
+            catch (Exception err)
+            {
+                System.Windows.MessageBox.Show("Error", "Error", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
+        }
+
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
             
@@ -145,28 +172,33 @@ namespace PhotoApp
                 
                 for (int i = 0; i < lvExifData.Items.Count; i++)
                 {
-                    MyExifData poo = (MyExifData)lvExifData.Items[i];
-                    if (poo.FieldName == "GPSLatitude")
+                    MyExifData foo = (MyExifData)lvExifData.Items[i];
+                    if (foo.FieldName == "GPSLatitude")
                     {
-                        GPSLatitude = Lat_Long_Deg_To_Dec(poo.Value);
+                        GPSLatitude = Lat_Long_Deg_To_Dec(foo.Value);
                     }
-                    if (poo.FieldName == "GPSLongitude")
+                    if (foo.FieldName == "GPSLongitude")
                     {
-                        GPSLongitude = Lat_Long_Deg_To_Dec(poo.Value);
+                        GPSLongitude = Lat_Long_Deg_To_Dec(foo.Value);
                     }
-                    if (poo.FieldName == "GPSLatitudeRef")
+                    if (foo.FieldName == "GPSLatitudeRef")
                     {
-                        if (poo.Value == "South latitude")
+                        if (foo.Value == "South latitude")
                         {
                             SouthLatitude = true;
                         }
                     }
-                    if (poo.FieldName == "GPSLongitudeRef")
+                    if (foo.FieldName == "GPSLongitudeRef")
                     {
-                        if (poo.Value == "West longitude")
+                        if (foo.Value == "West longitude")
                         {
                             WestLongitude = true;
                         }
+                    }
+
+                    if (foo.FieldName == "DateTimeOriginal")
+                    {
+                        getDateTaken(foo.Value);
                     }
                 }
 
